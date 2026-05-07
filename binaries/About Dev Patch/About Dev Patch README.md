@@ -1,6 +1,6 @@
 ﻿# Post Bar Widget Patch for About Page
 
-## Binary SHA256: `b4ca19e33dc79c250115f37b23c445c4eb7f42adf1a2198e26109ef2b79dcb09`
+## Binary SHA256: `39c0681ff3680d83cec223934c64be0c0b14d28df18cc5e07b6f2b9a13f07e05`
 
 ## Overview
 

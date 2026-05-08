@@ -177,21 +177,28 @@
 			"imageview":{
 				"name":"about_dev_iv_facebook",
 				"img_path":"about_dev\\facebook.png",
-				"x":45,
+				"x":24,
 				"y":460,
 				"imageview":true
 			},
 			"imageview":{
 				"name":"about_dev_iv_wechat",
 				"img_path":"about_dev\\wechat.png",
-				"x":190,
+				"x":138,
 				"y":460,
 				"imageview":true
 			},
 			"imageview":{
 				"name":"about_dev_iv_microblog",
 				"img_path":"about_dev\\weibo.png",
-				"x":335,
+				"x":252,
+				"y":460,
+				"imageview":true
+			},
+			"imageview":{
+				"name":"about_dev_iv_post_bar",
+				"img_path":"about_dev\\github.png",
+				"x":366,
 				"y":460,
 				"imageview":true
 			},

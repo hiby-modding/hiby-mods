@@ -1004,6 +1004,7 @@ def rebuild_db(sd: str, embed_art_enabled: bool = True, resize_covers_enabled: b
         VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
     """
     _INS_MEDIA2 = _INS_MEDIA.replace("MEDIA_TABLE", "MEDIA2_TABLE")
+    _INS_SEARCH = _INS_MEDIA.replace("MEDIA_TABLE", "SEARCH_TABLE")
 
     cur.execute("DELETE FROM MEDIA2_TABLE")
     media_album_sorted = sorted(media_rows, key=lambda r: (sanitize(r[3]), r[8], r[9]))
@@ -1011,6 +1012,8 @@ def rebuild_db(sd: str, embed_art_enabled: bool = True, resize_covers_enabled: b
     media_title_sorted = sorted(media_rows, key=lambda r: sort_key(sanitize(r[2])))
     cur.execute("DELETE FROM MEDIA_TABLE")
     cur.executemany(_INS_MEDIA, media_title_sorted)
+    cur.execute("DELETE FROM SEARCH_TABLE")
+    cur.executemany(_INS_SEARCH, media_title_sorted)
     cur.execute("DELETE FROM MEDIA3_TABLE")
 
     artist_rows = sorted(

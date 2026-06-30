@@ -6,6 +6,10 @@ This project is part of the [hiby-modding](https://github.com/hiby-modding) orga
 
 - [hiby_os_crack](https://github.com/hiby-modding/hiby_os_crack) by Tartarus6 — complementary firmware modding project with clean unpack/repack scripts, QEMU emulation setup, Windows support, and SOC hardware documentation.
 
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/noisetta) [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-EA4AAA?logo=github-sponsors)](https://github.com/sponsors/noisetta)
+
+**Maintenance status:** This project is currently maintained solely by [@noisetta](https://github.com/noisetta). Voluntary support via Ko-fi or GitHub Sponsors funds ongoing maintenance and development time — it is not compensation for past contributions, which are credited in Acknowledgements below.
+
 ## What This Project Does
 
 Provides custom firmware builds and tools for modifying HiBy OS on supported devices. Modifications are built on top of the stock firmware and distributed as ready-to-flash `.upt` files.
@@ -211,8 +215,8 @@ Contributions are welcome. Areas where help would be valuable:
 
 ## Acknowledgements
 
-- [@Jepl4r](https://github.com/Jepl4r) — Unified Theme, sorting patch, Database Manager, playlist fix, Done dialog, PC database updater, mod tool
-- [@Tartarus6](https://github.com/Tartarus6) — hiby_os_crack tooling, binary decompilation and collaboration
+- [@Jepl4r](https://github.com/Jepl4r) — Unified Theme, sorting patch, Database Manager, playlist fix, Done dialog, PC database updater, mod tool (contributed through v1.5)
+- [@Tartarus6](https://github.com/Tartarus6) — hiby_os_crack tooling, binary decompilation and collaboration (contributed through v1.5)
 - [@greenturtle537](https://github.com/greenturtle537) — QEMU board support research
 - Noto Naskh Arabic font by Google (OFL licensed)
 - HiBy Music for making a great device

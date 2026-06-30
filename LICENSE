@@ -1,0 +1,27 @@
+MIT License
+
+Copyright (c) 2026 noisetta and contributors
+
+This license applies to the original tooling, scripts, build configuration,
+documentation, and theme assets created by the contributors of this project
+(the "Project Tooling"). It does NOT apply to any redistributed or modified
+firmware binaries, which remain the property of their original owner — see
+NOTICE.md for details.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of the Project Tooling and associated documentation files, to deal in the
+Project Tooling without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Project Tooling, and to permit persons to whom the Project
+Tooling is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Project Tooling.
+
+THE PROJECT TOOLING IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO
+EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES
+OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE PROJECT TOOLING OR THE USE OR
+OTHER DEALINGS IN THE PROJECT TOOLING.

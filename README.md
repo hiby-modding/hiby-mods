@@ -8,7 +8,7 @@ This project is part of the [hiby-modding](https://github.com/hiby-modding) orga
 
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/noisetta) [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-EA4AAA?logo=github-sponsors)](https://github.com/sponsors/noisetta)
 
-**Maintenance status:** This project is currently maintained solely by [@noisetta](https://github.com/noisetta). Voluntary support via Ko-fi or GitHub Sponsors funds ongoing maintenance and development time — it is not compensation for past contributions, which are credited in Acknowledgements below.
+**Maintenance status:** This project is currently maintained solely by [@noisetta](https://github.com/noisetta). If you'd like to support the project, Ko-fi and GitHub Sponsors donations go toward ongoing maintenance and development time. See Acknowledgements below for everyone who's helped build this project over time.
 
 ## What This Project Does
 

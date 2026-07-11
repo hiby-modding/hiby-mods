@@ -97,7 +97,7 @@ sudo apt install squashfs-tools xorriso fontforge python3-fontforge p7zip-full
 git clone https://github.com/hiby-modding/hiby-mods
 cd hiby-mods
 
-# 2. Place your stock .upt firmware in the Firmware/ folder
+# 2. Place your stock .upt firmware in the firmware/ folder
 
 # 3. Run the mod tool
 ./tools/universal_mod_tool.sh
@@ -119,38 +119,21 @@ cd hiby-mods
 
 ## Repository Structure
 
-```
+```text
 hiby-mods/
-├── README.md
-├── binaries/
-│   ├── Sorting Patch/              # Sorting-only patched binary
-│   ├── DB Manager Patch/           # Sorting + Database Manager patched binary
-│   ├── Playlist Patch/             # Sorting + DB Manager + Playlist fix patched binary
-│   └── DB Manager Dialog Patch/    # Sorting + DB Manager + Playlist + Done dialog patched binary
-├── docs/
-│   ├── FIRMWARE_FORMAT.md          # Detailed OTA format documentation
-│   ├── SCREENSHOTS.md              # ADB screenshot guide
-│   ├── ALBUM_ART.md                # Album art guide
-│   └── FACTORY_MODE.md             # Factory diagnostic mode documentation
-├── themes/
-│   └── Unified Theme/              # Community UI theme (3 variants)
-├── tools/
-│   ├── build_upt.sh                # Manual build script
-│   ├── merge_arabic_font.py        # Font merging utility
-│   ├── universal_mod_tool.sh       # Interactive mod tool
-│   ├── MOD_TOOL.md                 # Mod tool documentation
-│   ├── rebuild.sh                  # Quick rebuild script
-│   ├── bt_init_optimized           # Optimized Bluetooth init script
-│   ├── Update_Database.py          # PC database updater script
-│   ├── HiBy_Database_Updater_GUI.py # GUI database updater
-│   └── Update Database README.md
-└── firmware/
-    ├── r3proii-arabic.upt          # v1.0
-    ├── r3proii-v1.1.upt            # v1.1
-    ├── r3proii-v1.2.upt            # v1.2
-    ├── r3proii-v1.3.upt            # v1.3
-    └── r3proii-v1.4-hmod.upt       # v1.4+
+├── binaries/      Patched HiBy player binaries and patch documentation
+├── docs/          Firmware research, device guides, and screenshots
+├── firmware/      Release and firmware-handling information
+├── themes/        Community theme assets
+├── tools/         Firmware-building and database utilities
+├── LICENSE
+├── NOTICE.md
+└── README.md
 ```
+
+Ready-to-flash `.upt` files are distributed through
+[GitHub Releases](https://github.com/hiby-modding/hiby-mods/releases)
+rather than stored directly in the source tree.
 
 ## Documentation
 

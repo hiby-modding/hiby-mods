@@ -12,11 +12,15 @@ This project is part of the [hiby-modding](https://github.com/hiby-modding) orga
 > HiBy Mods has benefited from the work and contributions of several people over its development. As the project has grown in scope, however, ongoing maintenance has increasingly fallen to me, and I no longer have the time or capacity to manage development, testing, issue support, and expansion to additional devices on my own.
 >
 > The project remains open, and contributions are very welcome. If you are interested in helping with development, testing, documentation, device support, or becoming a regular maintainer, please feel free to open an issue, submit a pull request, or get involved through the [hiby-modding](https://github.com/hiby-modding) organization.
->
-> [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/noisetta)
-> [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-EA4AAA?logo=github-sponsors)](https://github.com/sponsors/noisetta)
->
-> Financial support is appreciated and helps support the time and resources that I am able to put toward the project.
+
+### Support
+
+If you would like to support my continued work on HiBy Mods, you can do so through Ko-fi or GitHub Sponsors:
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/noisetta)
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-EA4AAA?logo=github-sponsors)](https://github.com/sponsors/noisetta)
+
+Financial support through these links supports my own time and work on the project.
 
 ## What This Project Does
 

@@ -6,9 +6,17 @@ This project is part of the [hiby-modding](https://github.com/hiby-modding) orga
 
 - [hiby_os_crack](https://github.com/hiby-modding/hiby_os_crack) by Tartarus6 — complementary firmware modding project with clean unpack/repack scripts, QEMU emulation setup, Windows support, and SOC hardware documentation.
 
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/noisetta) [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-EA4AAA?logo=github-sponsors)](https://github.com/sponsors/noisetta)
-
-**Maintenance status:** This project is currently maintained solely by [@noisetta](https://github.com/noisetta). If you'd like to support the project, Ko-fi and GitHub Sponsors donations go toward ongoing maintenance and development time. See Acknowledgements below for everyone who's helped build this project over time.
+> [!IMPORTANT]
+> **Project status — maintainers and contributors wanted**
+>
+> HiBy Mods has benefited from the work and contributions of several people over its development. As the project has grown in scope, however, ongoing maintenance has increasingly fallen to me, and I no longer have the time or capacity to manage development, testing, issue support, and expansion to additional devices on my own.
+>
+> The project remains open, and contributions are very welcome. If you are interested in helping with development, testing, documentation, device support, or becoming a regular maintainer, please feel free to open an issue, submit a pull request, or get involved through the [hiby-modding](https://github.com/hiby-modding) organization.
+>
+> [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/noisetta)
+> [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-EA4AAA?logo=github-sponsors)](https://github.com/sponsors/noisetta)
+>
+> Financial support is appreciated and helps support the time and resources that I am able to put toward the project.
 
 ## What This Project Does
 
@@ -186,7 +194,11 @@ This project is not affiliated with or endorsed by HiBy Music.
 
 ## Contributing
 
-Contributions are welcome. Areas where help would be valuable:
+Contributions are welcome.
+
+**Long-term contributors and co-maintainers are especially welcome. You do not need to take responsibility for the entire project — help maintaining a specific device, tool, feature, or documentation area would already make a significant difference.**
+
+Areas where help would be valuable:
 
 - Testing on other HiBy devices that share the same firmware format
 - Investigating kernel source availability (check github.com/hiby-music)
